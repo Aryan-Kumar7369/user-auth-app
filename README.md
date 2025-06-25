@@ -37,7 +37,7 @@ A simple and secure user authentication website built with **Node.js**, **Expres
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/user-auth-app.git
+git clone https://github.com/Aryan-Kumar7369/user-auth-app.git
 cd user-auth-app
 ```
 
