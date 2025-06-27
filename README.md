@@ -28,7 +28,7 @@ A simple and secure user authentication website built with **Node.js**, **Expres
 
 | Register Page | Login Page | Dashboard |
 |---------------|------------|-----------|
-| ![Register](./src/images/register_page.png) | ![Login](./src/images/login_page.png) | ![Dashboard](./assets/dashboard.png) |
+| ![Register](./src/images/register_page.png) | ![Login](./src/images/login_page.png) | ![Dashboard](./src/images/dashboard_page.png) |
 
 ---
 

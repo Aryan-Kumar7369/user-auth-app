@@ -5,10 +5,11 @@
   padding: 0px;
 }
 
-body {
+body, html {
   background-image: url("/images/bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  height: 100%;
 }
 
 h1 {
@@ -134,3 +135,20 @@ h1 {
 
 
 /* Error box end */
+
+/* Media Queries */
+
+@media only screen and (max-width: 480px) {
+  .authBox{
+    width: 340px;
+  }
+
+  .loginField{
+    width: 200px;
+    font-size: 14px;
+  }
+
+  .signupBox{
+    font-size: 9px;
+  }
+}
