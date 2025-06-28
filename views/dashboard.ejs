@@ -14,7 +14,10 @@
         <h1 class="poppins-semibold">Welcome </h1>
         <h1 class="poppins-semibold"><%= name %>   
         </h1>
-        <button type="button" class="btn poppins-regular">Logout</button>
+        <form action="/logout" method="post">
+            <button type="submit" class="btn poppins-regular">Logout</button>
+        </form>
+        
     </section>
 </body>
 </html>
