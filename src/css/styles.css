@@ -120,6 +120,16 @@ h1 {
   margin-left: 7px;
 }
 
+.showPass{
+  position: absolute;
+  top: 231px;
+  right: 55px;
+}
+
+.showPass:hover{
+  cursor: pointer;
+}
+
 /* Error box start */
 
 .error{
