@@ -5,10 +5,10 @@ function showPassFunction() {
 
     if (passType.type === "password") {
         passType.type = "text"
-        showPassLogo.src = "images/eye-slash.png"
+        showPassLogo.src = "images/eye-big.png"
     
     } else {
         passType.type = "password"
-        showPassLogo.src = "images/eye-big.png"
+        showPassLogo.src = "images/eye-slash.png"
     }
 }
